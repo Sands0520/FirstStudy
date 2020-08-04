@@ -100,3 +100,6 @@ void quickSort3ways(T arr[],int n)
 	srand(time(NULL));
 	__quickSort3ways(arr,0,n-1);
 }
+
+
+git练习完毕，继续c++基础
